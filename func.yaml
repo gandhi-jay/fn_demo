@@ -1,0 +1,5 @@
+name: hello-go
+version: 0.0.4
+runtime: go
+entrypoint: ./func
+timeout: 3000
